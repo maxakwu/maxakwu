@@ -2,10 +2,10 @@
 
 ## I am a software 💻 engineer, and life student!
 
-- 🏗️ I'm currently automating processes at the best remote company [CrossOver for work](https://www.crossover.com)
+- 🏗️ I'm currently building at the best company in the world [Amazon](https://aws.amazon.com)
 - 👀 I’m interested in cloud technologies, infrastructure automation automated test implementation and integrations and the adoption of DevOps practices
 - 🌱 I'm currently learning everything, everyday (a life student remember 👆 )
-- 💞️ 2025 Goals: Contribute more to Open Source projects...
+- 💞️ 2026 Goals: Contribute more to Open Source projects...
 - 📰 Fun fact: I love to draw (creative designs), cycling and swimming 🏊‍♂️
 - 📫 How to reach me [LinkedIn is the best channel](https://www.linkedin.com/in/maxakwu)
 
